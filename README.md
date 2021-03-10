@@ -9,7 +9,7 @@ Base structure of a React application, using tools such as Webpack, Babel, Webpa
 ****
 ## *About the project* ⭐️
 
-### *Eechnologies used:*
+### *Technologies used:*
 
 - [React](https://pt-br.reactjs.org/)
 - [React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
